@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # Flux Calculator
 
 A simple Python tool that calculates the  flux  received at a distance from a hot spherical object, based on the **Stefan–Boltzmann Law**.
