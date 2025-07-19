@@ -40,6 +40,6 @@ Where:
 
 1. download repository
 2. make sure Python 3.6+ is installed
-3. Run the program : python main.py
+3. Run in terminal: python main.py
 
 
