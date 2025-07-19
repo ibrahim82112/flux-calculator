@@ -39,7 +39,7 @@ Where:
 # How to Run
 
 1. download repository
-2. make sure Pythin 3.6+ is installed
+2. make sure Python 3.6+ is installed
 3. Run the program 
 # python main.py
 
